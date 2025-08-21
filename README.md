@@ -36,8 +36,7 @@ data/
   extracts/                   # optional: CSV extracts used for Looker (if Sheets/File Upload)
 looker/
   dashboard_link.txt          # Looker report URL
-slides/
-  Mandiri_MS_Exec_Template_v2.pptx  # exec-ready deck (drop charts & export to PDF)
+presentation.pdf
 docs/
   README_cleaning_summary.md  # optional extended notes
 ```

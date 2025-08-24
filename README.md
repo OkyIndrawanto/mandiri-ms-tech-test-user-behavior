@@ -53,7 +53,7 @@ docs/
 
 ---
 
-## Data Size & Performance (why this was challenging + how we solved it)
+## Data Size & Performance
 
 - **Scale:** ~13,000,000 transaction rows (multi-GB CSV), plus card and user reference tables.  
 - **Challenges:** local imports timed out; mixed date formats (including `0000-00-00 00:00:00`); currency strings with parentheses for negatives; occasional numeric strings like `'58523.0'`.
